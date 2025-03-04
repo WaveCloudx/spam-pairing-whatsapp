@@ -1,0 +1,16 @@
+{
+  "name": "catozolala",
+  "version": "1.0.0",
+  "description": "spam pairing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Catozolala",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.15",
+    "pino": "^7.0.0",
+    "chalk": "^4.1.2"
+  }
+}
